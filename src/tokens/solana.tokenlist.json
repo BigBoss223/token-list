@@ -26129,14 +26129,16 @@
     },
     {
       "chainId": 101,
-      "address": "57AS2y8g4MPN4R9uDRZQjr8c2ksa2PGrVJqJL5361BN5",
-      "symbol": "NARCH",
-      "name": "NARCHCoin",
+      "address": "2DuUuHBZzvnJEByVt4qerUfEoHStNj8fFoJxwVpWDy1a",
+      "symbol": "GASMC",
+      "name": "GASMASKCLUBCOIN",
       "decimals": 0,
-      "logoURI": "https://cdn.dribbble.com/users/612987/screenshots/4309689/letter-n-logo.jpg",
+      "logoURI": "https://github.com/BigBoss223/crypto/blob/main/gasman.%20copy.png",
       "tags": [
-        "utility-token"
-      ]
+        "utility-token",
+         "metaverse-token"
+        
+        ]
     }
   ],
   "version": {
